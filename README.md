@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SandipanGuha
-- 👀 I’m interested in Python Programming
+- 👋 Hi, I’m [Sandipan Guha](https://github.com/SandipanGuha) from India
+- 👀 I’m interested in Python programming and developing games
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📞 Reach me in [LinkedIn](https://www.linkedin.com/in/sandipan-guha-14b12738/) or [Steam](https://steamcommunity.com/id/prince24earth)
