@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sandipan Guha](https://github.com/SandipanGuha) from :IN:
+- 👋 Hi, I’m [Sandipan Guha](https://github.com/SandipanGuha) from 🇮🇳
 - 👀 I’m interested in Python programming and developing games
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
