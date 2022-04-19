@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Sandipan Guha](https://github.com/SandipanGuha) from India
+- 👋 Hi, I’m [Sandipan Guha](https://github.com/SandipanGuha) from ![India](https://user-images.githubusercontent.com/10739210/163971026-1d93b5d9-44e6-4fa0-a795-818e07089e36.png)
 - 👀 I’m interested in Python programming and developing games
 - 🌱 I’m currently learning Python and DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
